@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "Hello World!"
+echo "Hello this script is executed using Jenkins"
 
