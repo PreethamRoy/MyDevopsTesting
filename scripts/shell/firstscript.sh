@@ -1,2 +1,2 @@
 #!/bin/sh
-yum erase -y httpd
+yum install -y httpd
